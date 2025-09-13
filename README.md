@@ -25,6 +25,18 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+# 🎥 Learning Videos
+
+<!-- BEGIN YOUTUBE-CARDS -->
+[![Python for Beginners](https://ytcards.demolab.com/?id=odZHmYgebbw&title=Python+for+Beginners&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5)](https://youtu.be/odZHmYgebbw?si=a7VQHLAnBv21Otmx)
+
+[![SQL for Beginners](https://ytcards.demolab.com/?id=2jGhQpbzHes&title=SQL+for+Beginners&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5)](https://youtu.be/2jGhQpbzHes?si=F5-sZ79Zll1-Pzg8)
+
+[![Introduction to Data Science](https://ytcards.demolab.com/?id=PLNcg_FV9n7qZY_2eAtUzEUulNjTJREhQe&title=Introduction+to+Data+Science&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5)](https://youtube.com/playlist?list=PLNcg_FV9n7qZY_2eAtUzEUulNjTJREhQe&si=uBZs6sXVTFT6FNIU)
+
+[![Introduction to Machine Learning](https://ytcards.demolab.com/?id=PLNcg_FV9n7qZJqrKcUUCWCWPYCrlcVm9v&title=Introduction+to+Machine+Learning&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5)](https://youtube.com/playlist?list=PLNcg_FV9n7qZJqrKcUUCWCWPYCrlcVm9v&si=n9g_GqZTS1aleJb2)
+<!-- END YOUTUBE-CARDS -->
+
 ---
 [![](https://visitcount.itsvg.in/api?id=maulida-co&icon=0&color=0)](https://visitcount.itsvg.in)
 
